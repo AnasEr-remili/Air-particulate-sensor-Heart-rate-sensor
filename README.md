@@ -13,6 +13,6 @@ Als we in de files spreken over VERSIE 2:
 Dan werkt de opstelling als volgt de hartslagteller verzend hierbij zijn waardes door naar fijnstofopstellings centrale console op de fiets. Deze verzamelt dan beide metingen (dus zowel de hartslag als de fijnstofwaardes) in een file. En verzend deze dan via BLE naar de smartphone.
 Hierbij wordt er slecht één file aangemaakt voor beide. Los hiervan kan men nog steeds op beide lokaal loggen op de SD kaart.
 
-Dit is versie 2:
+Dit is versie 2: Waarbij we zowel de hartslag als de fijnstof op de centrale console zien dat op de fiets komt
 ![183075131_521261572379747_7215796782377619925_n](https://user-images.githubusercontent.com/78153942/117577116-c3deec80-b0e8-11eb-91bc-d5811ee61361.jpg)
 
