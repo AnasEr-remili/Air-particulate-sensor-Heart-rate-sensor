@@ -1,4 +1,4 @@
-# Air-particulate-sensor & Heart-rate-sensor
+# Draagbare mobiel fijnstofmeter & Hartslagteller
 Air particulate sensor &amp; Heart rate sensor
 
-The aim of the project is to have a portable mobile particulate matter meter on a bicycle. Paired with a heart rate counter. To measure physical exertion and local particulate matter. Together with a main Python program that visualizes the measured values ​​on a map.
+Het doel van het project is om een draagbare mobiel fijnstof meter te hebben op een fiets. Gepaard met een hartslagteller. Om zo de fysieke inspanning te meten en lokale fijnstof. Samen met een main Python programma dat de meetwaardes visualiseert op een kaart. 
