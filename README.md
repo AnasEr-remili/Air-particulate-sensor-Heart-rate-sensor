@@ -1,3 +1,4 @@
+![resultMap1](https://user-images.githubusercontent.com/78153942/117574484-89bc1d80-b0dd-11eb-8aaa-2bfb0591817b.png)
 # Draagbare mobiel fijnstofmeter & Hartslagteller
 Fijnstofmeter &amp; Hartslagteller
 
