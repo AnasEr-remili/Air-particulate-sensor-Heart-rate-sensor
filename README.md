@@ -14,5 +14,7 @@ Dan werkt de opstelling als volgt de hartslagteller verzend hierbij zijn waardes
 Hierbij wordt er slecht één file aangemaakt voor beide. Los hiervan kan men nog steeds op beide lokaal loggen op de SD kaart.
 
 Dit is versie 2: Waarbij we zowel de hartslag als de fijnstof op de centrale console zien dat op de fiets komt
-![183075131_521261572379747_7215796782377619925_n](https://user-images.githubusercontent.com/78153942/117577116-c3deec80-b0e8-11eb-91bc-d5811ee61361.jpg)
+
+![Inked183075131_521261572379747_7215796782377619925_n_LI](https://user-images.githubusercontent.com/78153942/117577190-0bfe0f00-b0e9-11eb-8e33-209d2956543e.jpg)
+
 
